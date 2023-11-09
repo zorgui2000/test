@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="description1">
+     LE DÉCOR IDÉAL POUR UN ENTRETIEN D EMBAUCHE À DISTANCE.     </string>
+    <string name="description2" >
+          Choisissez un endroit calme qui ne sera pas pollué par les allées et venues des uns et des autres à votre domicile.</string>
+    <string name="description3"> Il s agit de ne pas se laisser distraire lors de votre entretien à distance par l environnement extérieur.</string>
+    <string name="description4">Prenez soin de choisir le fond de couleur derrière vous ,Un mur uni </string>
+    <string name="description5">  CÔTÉ TECHNIQUE
+        l’objectif est de ne pas passer plus de temps à essayer de faire fonctionner votre téléphone ou votre ordinateur que le délai prévu pour l’entretien d’embauche virtuel.
+</string>
+</resources>
